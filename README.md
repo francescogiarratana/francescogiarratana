@@ -31,7 +31,7 @@ credentials:
 roles:
   - Server Engineer & Backend Developer @ Team ASTREO
   - Co-Founder & Treasurer @ εστ (Engineering Students of Trieste)
-  - Student Representative @ CPD DIA & Student Council (UniTS)
+  - Student Representative @ CPDS DIA & Student Council (UniTS)
 ```
 
 * **Cybersecurity & Compliance-by-Design**: Progettazione di architetture difendibili, continuità operativa e controlli conformi al framework **NIS-2** e logiche Zero Trust.
