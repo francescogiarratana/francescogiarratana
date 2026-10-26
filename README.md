@@ -93,7 +93,6 @@ roles:
 | Project / Role | Focus Area | Key Tech & Impact |
 | :--- | :--- | :--- |
 | **Team ASTREO** | Server Infrastructure & ERP | Spring Boot, React.js, PostgreSQL, OpenAPI, Docker deploy |
-| **SecureAgents** | On-Premise Privacy AI | Agentic workflows, local RAG, data boundary security |
 | **Satellite Connectivity Thesis** | Network Performance & Telemetry | Starlink LEO analysis, RTT, BBR congestion, PoP routing |
 | **εστ Association** | Technical Community | Treasury, industry tech talks, student ecosystem building |
 
