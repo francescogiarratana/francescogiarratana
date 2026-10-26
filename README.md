@@ -93,6 +93,7 @@ roles:
 | Project / Role | Focus Area | Key Tech & Impact |
 | :--- | :--- | :--- |
 | **Team ASTREO** | Server Infrastructure & ERP | Spring Boot, React.js, PostgreSQL, OpenAPI, Docker deploy |
+| **Self-Hosted Private Streaming** | Resource Constraint & Network Security | **Navidrome standalone on WD MyCloud EX2 Ultra (1GB RAM)**, zero-port-forwarding via **Tailscale mesh VPN**, lossless FLAC library streamed to Symfonium client |
 | **Satellite Connectivity Thesis** | Network Performance & Telemetry | Starlink LEO analysis, RTT, BBR congestion, PoP routing |
 | **εστ Association** | Technical Community | Treasury, industry tech talks, student ecosystem building |
 
