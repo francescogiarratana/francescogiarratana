@@ -2,7 +2,7 @@
 
 <!-- Dynamic Typing Header -->
   <a href="https://francescogiarratana.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Francesco+Giarratana;Cybersecurity+Architect+%26+Computer+Engineer;Designing+Resilient+Infrastructures+%26+Secure+AI;Backend+Engineering+%7C+NIS-2+Compliance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Francesco+Giarratana; Cybersecurity+Architect+%26+Computer+EngineerDesigning+Resilient+Infrastructures+%26+Secure+AI;Backend+Engineering+%7C+NIS-2+Compliance" alt="Typing SVG" />
   </a>
 
   <p align="center">
